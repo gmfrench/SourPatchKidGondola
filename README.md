@@ -14,3 +14,6 @@ PINOUT
 
 CODE
  The body of the code is contained within the file 'main.py' which calls external files that contain functions of their own. The code, once started, runs continuously using independent functions for rowing and rocking motions (see 'main.py' for their definitions).
+
+NOTE
+ Before running 'main.py', make sure to run 'sudo pigpiod' in your terminal.
